@@ -17,7 +17,7 @@ if (itemData.length > 0) {
 		  <div class="item my-3">
 		  <h5 class="item-name">${singleItem}</h5>
 	      <div class="item-icons">
-	       <a href="${singleItem}" class="complete-item mx-2 item-icon"><i class="fas fa-link"></i></a>
+	       <a href="${singleItem}" target="_blank" class="complete-item mx-2 item-icon"><i class="fas fa-link"></i></a>
 	       <a href="#" class="edit-item mx-2 item-icon"><i class="far fa-edit"></i></a>
 	       <a href="#" class="delete-item item-icon"><i class="far fa-times-circle"></i></a>
 	      </div>
